@@ -1,0 +1,17 @@
+# clasp / google apps script
+.clasp.json
+.clasprc.json
+node_modules/
+
+# secrets
+.env
+*.key
+
+# system
+.DS_Store
+Thumbs.db
+
+# editors
+.vscode/
+.idea/
+*.swp
