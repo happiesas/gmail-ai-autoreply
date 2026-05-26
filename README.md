@@ -3,7 +3,7 @@
 Réponses Gmail automatiques rédigées par **Gemini**, en **3 minutes chrono**, **sans coder**.
 Tout tient dans un seul script Google Apps Script — pas de serveur, pas d'abonnement, pas d'outil tiers.
 
-> Made with ❤️ by [Happie](https://happie.com) — l'automatisation sans code pour les entrepreneurs.
+> Made with ❤️ by [Happie](https://happie.fr) — l'automatisation sans code pour les entrepreneurs.
 
 ---
 
@@ -190,7 +190,7 @@ Dans `CONFIG.ai.model`, mets `gemini-2.5-pro` pour plus de qualité (plus lent e
 
 ## 📄 License
 
-[MIT](./LICENSE) — fais-en ce que tu veux. Si tu modifies et partages, un crédit à [Happie](https://happie.com) fait plaisir.
+[MIT](./LICENSE) — fais-en ce que tu veux. Si tu modifies et partages, un crédit à [Happie](https://happie.fr) fait plaisir.
 
 ---
 

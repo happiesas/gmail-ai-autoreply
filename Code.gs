@@ -17,7 +17,7 @@ const CONFIG = {
   // 🎯 TON BUSINESS — modifie uniquement ce bloc
   business: {
     name: 'Happie',
-    url: 'https://happie.com',
+    url: 'https://happie.fr',
     description:
       "Happie aide les entrepreneurs à automatiser leur quotidien sans coder : email, CRM, support, contenus. Solutions simples, prêtes en quelques minutes.",
     signature: "L'équipe Happie",
